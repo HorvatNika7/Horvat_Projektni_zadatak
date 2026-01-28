@@ -1,0 +1,75 @@
+/* CSS Document */
+
+.pozadina{
+	background-image: url("slike/birmingham-museums-trust-HEEvYhNzpEo-unsplash.jpg");
+	
+}
+.pozadina_2{
+	background-image: url("slike/birmingham-museums-trust-wKlHsooRVbg-unsplash.jpg");
+	
+}
+.pozadina_3{
+	background-image: url("slike/europeana-owUH9o042jk-unsplash.jpg");
+	
+}
+.pozadina_4{
+	background-image: url("slike/kseniya-lapteva-TsarOyCY6Fk-unsplash.jpg");
+	
+}
+h1{
+	font-family: NikaHorvat;
+	background: rgba(255, 248, 230, 0.82);
+    padding: 10px 25px;
+    border-radius: 15px;
+    width: fit-content;
+    margin: 12px auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);}
+h3,h2{
+	 background: rgba(255, 248, 230, 0.82);
+    padding: 10px 25px;
+    border-radius: 15px;
+    width: fit-content;
+    margin: 12px auto;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.12);
+}
+a {
+    color: #5a3e2b;
+    text-decoration: none;
+    font-weight: bold;
+    
+    padding: 10px 18px;
+    border-radius: 12px;
+    display: inline-block;
+    margin: 10px;
+    transition: 0.3s;
+}
+
+a:hover {
+    background: #dcc8a5;
+    color: #3d2b1f;
+    transform: scale(1.05);
+}
+ul{
+	
+    display: inline;
+    list-style: none;
+    padding: 20px;
+    margin: 20px auto;
+    background: rgba(255, 245, 220, 0.9);
+    border-radius: 20px;
+    width: fit-content;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.15);
+}
+li {
+	
+    display: inline;
+    padding: 10px 30px;
+    background: #efe0c2;
+    border-radius: 12px;
+    font-size: 1.1em;
+}
+img {
+    max-width: 80%;
+    border-radius: 10px;
+    margin: 20px auto;
+}
